@@ -17,3 +17,4 @@ con <- dbConnect(dbDriver("PostgreSQL"),
 dbGetQuery(con,"INSERT INTO publish.sample (name, email) VALUES('sxcdf', 'vfrtg@grfds.com');")
 
 # test1
+# test2
